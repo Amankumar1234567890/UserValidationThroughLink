@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserValidationThroughLink", "UserValidationThroughLink\UserValidationThroughLink.csproj", "{86A1F9AE-06D8-4A79-BC12-05D26F31D8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserValidationUsingMVC", "UserValidationUsingMVC\UserValidationUsingMVC.csproj", "{09680023-8F8E-4B59-8E2F-1D52703649BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A1F9AE-06D8-4A79-BC12-05D26F31D8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A1F9AE-06D8-4A79-BC12-05D26F31D8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A1F9AE-06D8-4A79-BC12-05D26F31D8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A1F9AE-06D8-4A79-BC12-05D26F31D8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09680023-8F8E-4B59-8E2F-1D52703649BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09680023-8F8E-4B59-8E2F-1D52703649BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09680023-8F8E-4B59-8E2F-1D52703649BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09680023-8F8E-4B59-8E2F-1D52703649BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E782A195-0842-46CD-8E8C-7167AD5260CC}
+	EndGlobalSection
+EndGlobal
